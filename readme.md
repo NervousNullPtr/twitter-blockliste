@@ -3,6 +3,8 @@ Um das Onlineleben auf Twitter erträglicher zu machen, möchte ich hier alle Af
 
 Viel Spaß!
 
+***Pull-Requests und Issues sind ausdrücklich erwünscht***
+
 # Inhalt
 
 1. [AfD](afd.md)
